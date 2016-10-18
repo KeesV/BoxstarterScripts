@@ -1,7 +1,6 @@
 Set-ExplorerOptions -showHiddenFilesFoldersDrives -showProtectedOSFiles -showFileExtensions
 Disable-InternetExplorerESC
 
-cinst chocolatey
 cinst 7zip
 cinst DotNet4.5.1
 cinst dotpeek
