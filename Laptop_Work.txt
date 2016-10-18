@@ -1,1 +1,3 @@
 Set-ExplorerOptions -showHiddenFilesFoldersDrives -showProtectedOSFiles -showFileExtensions
+cinst fiddler4
+cinst dotpeek
