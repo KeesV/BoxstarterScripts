@@ -1,3 +1,22 @@
 Set-ExplorerOptions -showHiddenFilesFoldersDrives -showProtectedOSFiles -showFileExtensions
-cinst fiddler4
+Disable-InternetExplorerESC
+
+cinst chocolatey
+cinst 7zip
+cinst DotNet4.5.1
 cinst dotpeek
+cinst fiddler4
+cinst git
+cinst gitkraken
+cinst googlechrome
+cinst lastpass
+cinst openlivewriter
+cinst paint.net
+cinst poshgit
+cinst skype
+cinst slack
+cinst sysinternals
+cinst teamviewer
+cinst visualstudiocode
+
+cinst Microsoft-Hyper-V-All -source windowsFeatures
